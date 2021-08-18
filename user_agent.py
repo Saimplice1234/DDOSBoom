@@ -9,10 +9,16 @@ subprocess.call('cls',shell=True)
 
 t_start=time.time()
 
+banner_system=(r''' 
+  ___                    ___  
+ (o o)                  (o o) 
+(  V  ) Agent Provider (  V  )
+--m-m--------------------m-m--
+
+''')
+
 def init_banner():
-    file_banner=open("banner/banner.txt")
-    print(file_banner.read())
-    print("\n")
+    print(banner_system)
 pass
 
 init_banner()
