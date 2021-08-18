@@ -17,16 +17,15 @@ This tool has been created to provide user agents strings quickly.In computing, 
   (  V  ) Agent Provider (  V  )
   --m-m--------------------m-m--
 
-```
-```[+] Welcome agent fast an user agent provider
+- [+] Welcome agent fast an user agent provider
 - [+] All browser service:
 - [1] Chrome    [2] Firefox
 - [3] Edge      [4] Lunascape
 - [5] Mozilla   [6] Shiira
 - [7] Lobo      [8] Galaxy
-- [9] Arora     [10] Chimera```
+- [9] Arora     [10] Chimera ```
 
-### Results forms
+## Results forms
 
 - [+] Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19582
 - [+] Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19577
