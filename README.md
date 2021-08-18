@@ -18,14 +18,13 @@ This tool has been created to provide user agents strings quickly.In computing, 
   --m-m--------------------m-m--
 
 ```
-
-- [+] Welcome agent fast an user agent provider
+```[+] Welcome agent fast an user agent provider
 - [+] All browser service:
 - [1] Chrome    [2] Firefox
 - [3] Edge      [4] Lunascape
 - [5] Mozilla   [6] Shiira
 - [7] Lobo      [8] Galaxy
-- [9] Arora     [10] Chimera
+- [9] Arora     [10] Chimera```
 
 ### Results forms
 
