@@ -46,14 +46,10 @@ This tool has been created to provide user agents strings quickly.In computing, 
 
 Please remember to always check the source and not just run some random code on your machine.
 
-## Installation
+## Start tool
 
-Just run the following commands as root:
+Just run the following commands as root or other privilege system
 
-`chmod +x setup.sh && ./setup.sh`
+`python user_agent.py
 
-You will be prompt for some basic information required for the configuration files.
 
-## What you will get after installation:
-
-A fully functional self-hosted server for your git repositories, files, and mails.
