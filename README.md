@@ -42,6 +42,8 @@ Just run the following commands as root or other privilege system
 - [3] Edge      [4] Lunascape
 - [5] Mozilla   [6] Shiira
 - [7] Lobo      [8] Galaxy
-- [9] Arora     [10] Chimera ```
+- [9] Arora     [10] Chimera 
+
+```
 
 
