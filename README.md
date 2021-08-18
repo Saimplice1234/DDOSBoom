@@ -10,12 +10,20 @@ This tool has been created to provide user agents strings quickly.In computing, 
 4. time
 5. subprocess
 
-## Goals
+## Insight
+` ___                    ___  
+ (o o)                  (o o) 
+(  V  ) Agent Provider (  V  )
+--m-m--------------------m-m--
 
-1. Self-hosting my most used services for privacy reasons.
-2. Being able to customize my setup and add more features whenever I want.
-
-## Software
+[+] Welcome agent fast an user agent provider
+[+] All browser service:
+[1] Chrome    [2] Firefox
+[3] Edge      [4] Lunascape
+[5] Mozilla   [6] Shiira
+[7] Lobo      [8] Galaxy
+[9] Arora     [10] Chimera
+`
 
 ### OpenBSD base system:
 
